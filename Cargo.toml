@@ -1,0 +1,6 @@
+[package]
+name = "ctci"
+version = "0.1.0"
+authors = ["Nguyen Huu Son <nhs.000.dev@gmail.com>"]
+
+[dependencies]
