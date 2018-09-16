@@ -1,0 +1,6 @@
+Rust implemented of algorithms in **Cracking the coding interview book**.
+
+Run test:
+#+BEGIN_SRC bash
+cargo run
+#+END_SRC
